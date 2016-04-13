@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Muhrs - Quality consulting services]]></title>
+        <description><![CDATA[Muhrs - Quality consulting services]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Apr 2016 18:37:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Web design]]></title>
+            <description><![CDATA[<article><h1>Web design</h1><p>We can help you make your website the hub of information you want it to be, scaling for the screen size, optimized for google searches</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4dcc6feba1256b38c8815bfaa1e1f49941d938c2.jpg"></article>]]></description>
+            <link>undefinedweb-design/index.html</link>
+            <guid isPermaLink="false">8f469ee3-b9d7-4230-a309-e5dc4c2e837b</guid>
+            <pubDate>Wed, 13 Apr 2016 18:37:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
